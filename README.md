@@ -1,2 +1,2 @@
 # azureFlask
-App Service Web App COnfiguration
+App Service Web App Configuration
